@@ -35,8 +35,8 @@ Sou um desenvolvedor apaixonado por criar interfaces performantes e resolver pro
 
 ### 📂 Projetos em Destaque
 
-#### 📦 ColetaLog - SaaS de Gestão Logística
-Plataforma SaaS desenvolvida para gestão de pacotes e rastreabilidade de estoque em pontos de coleta (foco em parceiros do Mercado Livre).
+#### 📦 SaaS de Gestão Logística
+Plataforma SaaS desenvolvida para gestão de pacotes e rastreabilidade de estoque em pontos de coleta.
 - **Tecnologias:** Node.js, TypeScript, React, PostgreSQL, APIs REST e integração com dispositivos IoT.
 - **Destaque:** Arquitetura completa com regras de negócio no backend e interface componentizada no frontend.
 
