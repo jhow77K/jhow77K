@@ -1,55 +1,76 @@
-# Olá! 👋 Eu sou o Jonathan Alexsander
+<h1 align="center">Olá, eu sou o Jonathan Alexsander 👋</h1>
 
-**Desenvolvedor Full Stack Júnior | Estudante de TI (Desenvolvimento de Software)**
+<p align="center">
+  <strong>Desenvolvedor Full Stack Júnior</strong> · Estudante de TI na UNIVESP
+</p>
 
-Sou um desenvolvedor apaixonado por criar interfaces performantes e resolver problemas lógicos complexos. Atualmente, estou cursando Bacharelado em Tecnologia da Informação com ênfase em Desenvolvimento de Software na UNIVESP. Tenho um perfil de alta autonomia e aprendizado contínuo, focado na construção de aplicações web e SaaS do zero.
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Graduando em Tecnologia da Informação pela UNIVESP.
-- 💻 Atuando no desenvolvimento de projetos próprios, cobrindo desde a modelagem do banco de dados até a entrega da interface de usuário.
-- 🌱 Atualmente aprofundando meus conhecimentos no ecossistema **React e Node.js**.
-- 🤝 Busco oportunidades para colaborar com times de tecnologia na construção de sistemas eficientes e escaláveis.
-
----
-
-### 💻 Minhas Tecnologias e Ferramentas
-
-**Front-end:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Back-end:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Banco de Dados & Ferramentas:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/jonathan-alexsander77/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jonathanalexsander77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📂 Projetos em Destaque
+### 🙋 Sobre mim
+
+Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas lógicos complexos. Cubro o ciclo completo de desenvolvimento — da modelagem do banco de dados até a entrega da interface — com foco em aplicações web e SaaS.
+
+- 🎓 Graduando em **Tecnologia da Informação** (ênfase em Desenvolvimento de Software) pela UNIVESP
+- 🌱 Aprofundando conhecimentos no ecossistema **React** e **Node.js**
+- 🤝 Buscando oportunidades para colaborar com times na construção de sistemas eficientes e escaláveis
+- ⚡ Perfil de alta autonomia e aprendizado contínuo
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
 
 #### 📦 SaaS de Gestão Logística
-Plataforma SaaS desenvolvida para gestão de pacotes e rastreabilidade de estoque em pontos de coleta.
-- **Tecnologias:** Node.js, TypeScript, React, PostgreSQL, APIs REST e integração com dispositivos IoT.
-- **Destaque:** Arquitetura completa com regras de negócio no backend e interface componentizada no frontend.
+Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pontos de coleta.
 
-#### 🏫 Fazendinha Estação Natureza - Gestão de Visitas
-Aplicação web construída para automatizar o agendamento e a organização de visitas escolares.
-- **Tecnologias:** Python, Django, MySQL, HTML/CSS/JS.
-- **Destaque:** Implementação de sistema CRUD completo, autenticação de usuários e integração com API ViaCEP para preenchimento automático de endereços.
+`Node.js` `TypeScript` `React` `PostgreSQL` `REST API` `IoT`
+
+> Arquitetura full stack com regras de negócio no backend e interface componentizada no frontend.
 
 ---
 
-### 📫 Como me encontrar
+#### 🏫 Fazendinha Estação Natureza — Gestão de Visitas
+Aplicação web para automatizar o agendamento e organização de visitas escolares.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-alexsander77/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanalexsander77@gmail.com)
+`Python` `Django` `MySQL` `HTML/CSS/JS`
 
-⭐ *Sinta-se à vontade para explorar meus repositórios abaixo!*
+> CRUD completo, autenticação de usuários e integração com a API ViaCEP para preenchimento automático de endereços.
+
+---
+
+<p align="center">⭐ Fique à vontade para explorar meus repositórios!</p>
