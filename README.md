@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Jonathan Alexsander 👋</h1>
+<h1 align="center">Olá, eu sou o Jonathan Alexsander </h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Júnior</strong> · Estudante de TI na UNIVESP
@@ -15,18 +15,18 @@
 
 ---
 
-### 🙋 Sobre mim
+### Sobre mim
 
 Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas lógicos complexos. Cubro o ciclo completo de desenvolvimento — da modelagem do banco de dados até a entrega da interface — com foco em aplicações web e SaaS.
 
-- 🎓 Graduando em **Tecnologia da Informação** (ênfase em Desenvolvimento de Software) pela UNIVESP
-- 🌱 Aprofundando conhecimentos no ecossistema **React** e **Node.js**
-- 🤝 Buscando oportunidades para colaborar com times na construção de sistemas eficientes e escaláveis
-- ⚡ Perfil de alta autonomia e aprendizado contínuo
+- Graduando em **Tecnologia da Informação** (ênfase em Desenvolvimento de Software) pela UNIVESP
+- Aprofundando conhecimentos no ecossistema **React** e **Node.js**
+- Buscando oportunidades para colaborar com times na construção de sistemas eficientes e escaláveis
+- Perfil de alta autonomia e aprendizado contínuo
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
@@ -43,19 +43,19 @@ Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jhow77K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhow77K&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://streak-stats.demolab.com?user=jhow77K&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
-#### 📦 SaaS de Gestão Logística
+#### SaaS de Gestão Logística
 Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pontos de coleta.
 
 `Node.js` `TypeScript` `React` `PostgreSQL` `REST API` `IoT`
@@ -64,7 +64,7 @@ Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pont
 
 ---
 
-#### 🏫 Fazendinha Estação Natureza — Gestão de Visitas
+#### Fazendinha Estação Natureza — Gestão de Visitas
 Aplicação web para automatizar o agendamento e organização de visitas escolares.
 
 `Python` `Django` `MySQL` `HTML/CSS/JS`
@@ -87,4 +87,4 @@ Histórico imutável de todas as movimentações
 Cadastro de fornecedores com preenchimento automático via API ViaCEP
 Monorepo organizado em Service Pattern (frontend) + MVC (backend)
 
-<p align="center">⭐ Fique à vontade para explorar meus repositórios!</p>
+<p align="center"> Fique à vontade para explorar meus repositórios!</p>
