@@ -56,15 +56,19 @@ Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas 
 ### Projetos em Destaque
 
 #### SaaS de Gestão Logística
-Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pontos de coleta.
+Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pontos de coleta do Mercado Livre, Shopee.
 
 `Node.js` `TypeScript` `React` `PostgreSQL` `REST API` `IoT`
 
 > Arquitetura full stack com regras de negócio no backend e interface componentizada no frontend.
 
+🔗 Organização: https://github.com/ColetaLog
+
+> Repositório privado devido às regras de negócio e desenvolvimento contínuo da plataforma.
+
 ---
 
-#### Fazendinha Estação Natureza — Gestão de Visitas
+#### [Fazendinha Estação Natureza — Gestão de Visitas](https://github.com/jhow77K/Gestao-Digital-de-Visitas.git)
 Aplicação web para automatizar o agendamento e organização de visitas escolares.
 
 `Python` `Django` `MySQL` `HTML/CSS/JS`
@@ -73,18 +77,11 @@ Aplicação web para automatizar o agendamento e organização de visitas escola
 
 ---
 
-Sistema de Gestão de Estoque
-Sistema que substitui pranchetas e planilhas por uma solução digital ágil para controle de insumos, ferramentas, rações e medicamentos.
+#### [Sistema de Gestão de Estoque](https://github.com/jhow77K/pi3-estoque-fazendinha.git)
+Sistema web desenvolvido para substituir pranchetas e planilhas por uma solução digital eficiente para controle de insumos, ferramentas, rações e medicamentos.
 
 `React` `Vite` `TypeScript` `Node.js` `Express` `PostgreSQL`
 
-Destaques técnicos:
-
-Leitura de QR Code / EAN direto pelo navegador via câmera do celular (sem hardware externo)
-Rastreabilidade física: Produto → Fornecedor → Estante → Prateleira
-Bloqueio automático de produtos com validade vencida + alertas de estoque crítico
-Histórico imutável de todas as movimentações
-Cadastro de fornecedores com preenchimento automático via API ViaCEP
-Monorepo organizado em Service Pattern (frontend) + MVC (backend)
+> Aplicação full stack com leitura de QR Code/EAN via navegador, rastreabilidade completa de estoque, alertas automáticos de validade e arquitetura organizada em monorepo utilizando Service Pattern e MVC.
 
 <p align="center"> Fique à vontade para explorar meus repositórios!</p>
