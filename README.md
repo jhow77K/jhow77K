@@ -13,7 +13,8 @@
   </a>
 </p>
 
----
+
+
 
 ### Sobre mim
 
@@ -52,6 +53,7 @@ Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhow77K&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhow77K&theme=tokyonight" />
 </p>
+
 ---
 
 ### Projetos em Destaque
