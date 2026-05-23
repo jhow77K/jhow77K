@@ -46,8 +46,11 @@ Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhow77K&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhow77K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhow77K&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhow77K&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhow77K&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhow77K&theme=tokyonight" />
 </p>
 ---
 
