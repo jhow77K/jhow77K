@@ -73,4 +73,18 @@ Aplicação web para automatizar o agendamento e organização de visitas escola
 
 ---
 
+Sistema de Gestão de Estoque
+Sistema que substitui pranchetas e planilhas por uma solução digital ágil para controle de insumos, ferramentas, rações e medicamentos.
+
+`React` `Vite` `TypeScript` `Node.js` `Express` `PostgreSQL`
+
+Destaques técnicos:
+
+Leitura de QR Code / EAN direto pelo navegador via câmera do celular (sem hardware externo)
+Rastreabilidade física: Produto → Fornecedor → Estante → Prateleira
+Bloqueio automático de produtos com validade vencida + alertas de estoque crítico
+Histórico imutável de todas as movimentações
+Cadastro de fornecedores com preenchimento automático via API ViaCEP
+Monorepo organizado em Service Pattern (frontend) + MVC (backend)
+
 <p align="center">⭐ Fique à vontade para explorar meus repositórios!</p>
