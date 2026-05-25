@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Jonathan Dias </h1>
+<h1 align="center">Olá, eu sou o Jonathan Alexsander </h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Júnior</strong> · Estudante de TI na UNIVESP
