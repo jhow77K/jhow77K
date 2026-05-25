@@ -81,7 +81,7 @@ Aplicação web para automatizar o agendamento e organização de visitas escola
 ---
 
 #### [Sistema de Gestão de Estoque](https://github.com/jhow77K/pi3-estoque-fazendinha.git)
-Sistema web desenvolvido para substituir pranchetas e planilhas por uma solução digital eficiente para controle de insumos, ferramentas, rações e medicamentos.
+Sistema web desenvolvido para substituir pranchetas e planilhas por uma solução digital eficiente para controle de insumos.
 
 `React` `Vite` `TypeScript` `Node.js` `Express` `PostgreSQL`
 
