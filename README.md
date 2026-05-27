@@ -58,7 +58,7 @@ Desenvolvedor apaixonado por criar interfaces performantes e resolver problemas 
 
 ### Projetos em Destaque
 
-#### SaaS de Gestão Logística
+#### ColetaLog -  Gestão Logística
 Plataforma completa para gestão de pacotes e rastreabilidade de estoque em pontos de coleta do Mercado Livre, Shopee.
 
 `Node.js` `TypeScript` `React` `PostgreSQL` `REST API` `IoT`
